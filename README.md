@@ -1,7 +1,9 @@
 # ALTAIR_MD_V8
 **High-Power Isolated Motor Driver Board**
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">NEWもたどら <a href="https://t.co/xIfIAs8RRS">pic.twitter.com/xIfIAs8RRS</a></p>&mdash; -Altair- (@Flying___eagle) <a href="https://twitter.com/Flying___eagle/status/2016806401205797079?ref_src=twsrc%5Etfw">January 29, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+![alt text](images/image-2.png)
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">NEWもたどら <a href="https://t.co/xIfIAs8RRS">pic.twitter.com/xIfIAs8RRS</a></p>&mdash; -Altair- (@Flying___eagle) <a href="https://twitter.com/Flying___eagle/status/2016806401205797079?ref_src=twsrc%5Etfw">January 29, 2026</a></blockquote> 
 
 ## 概要 (Overview)
 **ALTAIR_MD_V8** は、STMicroelectronics製の車載用高出力フルブリッジドライバー **VNH5019A-E** を搭載したDCモータードライバーモジュールです。
